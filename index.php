@@ -26,18 +26,18 @@
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
         </div>
-    <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Third slide label</h5>
-        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
-      </div>
+        <div class="carousel-item">
+            <img src="..." class="d-block w-100" alt="...">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Third slide label</h5>
+                <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+            </div>
+        </div>
     </div>
-     </div>
-     <a class="carousel-control-prev" href="#slidersHome" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-    </a>
+        <a class="carousel-control-prev" href="#slidersHome" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
     <a class="carousel-control-next" href="#slidersHome" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
